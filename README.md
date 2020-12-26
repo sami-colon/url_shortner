@@ -145,10 +145,8 @@ Project Link: [https://github.com/sami-colon/url_shortner](https://github.com/sa
 
 
 ## sample images
-<img src="images/images1.PNG" alt="Logo">
-<img src="images/images2.PNG" alt="Logo">
-<img src="images/images3.PNG" alt="Logo">
-
+<img src="images/image1.png" alt="Logo">
+<img src="images/image2.png" alt="Logo">
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
